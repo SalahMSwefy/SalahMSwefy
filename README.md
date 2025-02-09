@@ -1,7 +1,7 @@
 
 # 👋 Hello! I am Salah Swefy, a student at the Faculty of Engineering, Port Said University, Department of Computer and Control.
 ## 💻 I'm currently diving into web development, focusing on:<be>
-- Front-end development using React.
+- Front-end development using React & NextJS.
 - Expanding my knowledge of databases and back-end technologies <br>like Express (NodeJS)<br><be>
 ### 🌟 I'm passionate about creating intuitive and efficient web applications and always eager to learn and improve. Feel free to explore my projects or connect with me!
 
