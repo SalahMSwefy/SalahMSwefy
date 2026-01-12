@@ -73,16 +73,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalahMSwefy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=false&order=1&custom_title=My%20Stats:" height="500" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=SalahMSwefy&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="300" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SalahMSwefy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false&order=2" height="250" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SalahMSwefy.SalahMSwefy&"  />
-</div>
